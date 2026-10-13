@@ -1,9 +1,5 @@
 <a href="https://eigna.ai">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Eigna Labs. Private AI for everyone. eigna.ai" src="./assets/banner-light.svg" width="100%">
-  </picture>
+  <img alt="Eigna Labs. Private AI for everyone. eigna.ai" src="./assets/banner-dark.svg" width="100%">
 </a>
 
 <p align="center">
@@ -27,11 +23,7 @@
 
 ## How it works
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/how-it-works-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/how-it-works-light.svg">
-  <img alt="How Eigna works. Your work goes into Eigna, a local expert on hardware you control. Teams use it every day, results and feedback are saved inside your own cloud, and it retrains behind evaluation and safety gates into a better model. Company data never leaves the company's cloud." src="./assets/how-it-works-light.svg" width="100%">
-</picture>
+<img alt="How Eigna works. Your work goes into Eigna, a local expert on hardware you control. Teams use it every day, results and feedback are saved inside your own cloud, and it retrains behind evaluation and safety gates into a better model. Company data never leaves the company's cloud." src="./assets/how-it-works-dark.svg" width="100%">
 
 1. **Use.** Teams work with their private AI every day.
 2. **Capture.** Results and feedback are saved inside their own cloud.
