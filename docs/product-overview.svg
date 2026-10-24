@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Eigna: private expert models</title>
+<desc id="desc">A learning loop designed for the company&#x27;s own environment.. Development-stage software. Real-client quality and production acceptance remain unverified.</desc>
+<rect width="1200" height="440" rx="20" fill="#f4f7fa"/>
+<rect x="36" y="40" width="6" height="62" rx="3" fill="#087e8b"/>
+<text x="62" y="65" fill="#162b3a" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700">Eigna: private expert models</text>
+<text x="62" y="96" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400">A learning loop designed for the company&#x27;s own environment.</text>
+<rect x="48" y="148" width="248" height="178" rx="14" fill="#ffffff" stroke="#a8bccb"/>
+<text x="68" y="182" fill="#162b3a" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700">Collector</text>
+<text x="68" y="217" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Authorized sources</text>
+<text x="68" y="244" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Consent and lineage</text>
+<text x="68" y="271" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Client-controlled data</text>
+<path d="M303 236 H324 l-7 -7 m7 7 l-7 7" fill="none" stroke="#087e8b" stroke-width="3"/>
+<rect x="334" y="148" width="248" height="178" rx="14" fill="#ffffff" stroke="#a8bccb"/>
+<text x="354" y="182" fill="#162b3a" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700">Candidate training</text>
+<text x="354" y="217" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Small specialist models</text>
+<text x="354" y="244" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Approved learning inputs</text>
+<text x="354" y="271" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Retain the current model</text>
+<path d="M589 236 H610 l-7 -7 m7 7 l-7 7" fill="none" stroke="#087e8b" stroke-width="3"/>
+<rect x="620" y="148" width="248" height="178" rx="14" fill="#ffffff" stroke="#a8bccb"/>
+<text x="640" y="182" fill="#162b3a" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700">Frozen evaluation</text>
+<text x="640" y="217" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Independent checks</text>
+<text x="640" y="244" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Quality and safety</text>
+<text x="640" y="271" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Keep failures visible</text>
+<path d="M875 236 H896 l-7 -7 m7 7 l-7 7" fill="none" stroke="#087e8b" stroke-width="3"/>
+<rect x="906" y="148" width="248" height="178" rx="14" fill="#ffffff" stroke="#a8bccb"/>
+<text x="926" y="182" fill="#162b3a" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700">Promotion guard</text>
+<text x="926" y="217" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Promote only if better</text>
+<text x="926" y="244" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Retain rollback history</text>
+<text x="926" y="271" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400">Continue from feedback</text>
+<text x="48" y="380" fill="#43596c" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400">Development-stage software. Real-client quality and production acceptance remain unverified.</text>
+</svg>

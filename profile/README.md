@@ -1,45 +1,30 @@
-<a href="https://eigna.ai">
-  <img alt="Eigna Labs. Private AI for everyone. eigna.ai" src="./assets/banner-dark.svg" width="100%">
-</a>
+# Eigna Labs
 
-<p align="center">
-  Eigna Labs builds <b>Eigna</b>: private, sovereign enterprise AI that runs inside your own cloud or servers and keeps your data at home.
-</p>
+Eigna Labs builds private expert models for companies, designed to run in their own cloud or on their own servers.
 
-<p align="center">
-  <a href="https://eigna.ai"><b>eigna.ai</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://eigna.ai/waitlist"><b>Join the waitlist</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:contact@eigna.ai"><b>contact@eigna.ai</b></a>
-</p>
+![Eigna collector, evaluation and learning loop](../docs/product-overview.svg)
 
-## Why Eigna
+## What Eigna supports
 
-- **Sovereign.** Your data, your model, your infrastructure. It runs inside your own cloud or servers, and nothing leaves.
-- **Specialized.** Trained on your own work, rules and language.
-- **Keeps learning.** Gets better every week where it lives, behind safety rails.
-- **Owned, not rented.** The model stays the same until you decide.
+Our proof-of-concept software covers:
 
-## How it works
+- Collection from authorized documents and structured records, with consent and source lineage.
+- Specialist decision models evaluated against a fixed test set.
+- Learning cycles that retain the current model when a candidate fails or does not improve.
+- Research scorecards that distinguish measured results, missing evidence and planned work.
 
-<img alt="How Eigna works. Your work goes into Eigna, a local expert on hardware you control. Teams use it every day, results and feedback are saved inside your own cloud, and it retrains behind evaluation and safety gates into a better model. Company data never leaves the company's cloud." src="./assets/how-it-works-dark.svg" width="100%">
+The product direction is client-controlled data and models, private deployment and learning from approved feedback. Eigna is being built for organizations worldwide.
 
-1. **Use.** Teams work with their private AI every day.
-2. **Capture.** Results and feedback are saved inside their own cloud.
-3. **Retrain.** The decision model and the private LLM retrain with LoRA and GRPO, behind evaluation and safety gates.
-4. **Improve.** A better model, then the loop starts again.
+## Get started
 
-## Try Eigna
+Visit [eigna.ai](https://eigna.ai) to learn about the product. The [early-access page](https://eigna.ai/waitlist) provides the current registration or email-contact path.
 
-Join the Eigna waitlist for early access at [eigna.ai/waitlist](https://eigna.ai/waitlist). Questions from your company? Write to [contact@eigna.ai](mailto:contact@eigna.ai).
+This repository contains the organization profile. Application installation and client onboarding are not available from this repository.
 
-<br>
+## Status and limits
 
-<p align="center">
-  <a href="https://eigna.ai"><img src="./assets/eigna-mark.svg" width="36" height="36" alt="Eigna Labs"></a>
-</p>
+Eigna is in development. Proofs of concept use synthetic and public data. They do not establish quality on a client's decisions, a complete client installation or production privacy acceptance.
 
-<p align="center">
-  <sub><b>Eigna Labs</b> &nbsp;·&nbsp; Private AI for everyone &nbsp;·&nbsp; <a href="https://eigna.ai">eigna.ai</a></sub>
-</p>
+Research forecasts do not establish a trading edge. Planned capabilities and unrun comparisons remain labelled as such. A candidate is promoted only under its evaluation and safety rules; improvement is not guaranteed for every batch.
+
+Questions from your organization: [contact@eigna.ai](mailto:contact@eigna.ai).
