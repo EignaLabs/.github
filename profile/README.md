@@ -1,30 +1,50 @@
-# Eigna Labs
+<a href="https://eigna.ai">
+  <img alt="Eigna. AI of your own." src="./assets/banner.svg" width="100%">
+</a>
 
-Eigna Labs builds private expert models for companies, designed to run in their own cloud or on their own servers.
+<p align="center">
+  Eigna is owned AI for companies that want better results, a predictable cost and full control over their data, their models and where they run.
+</p>
 
-![Eigna collector, evaluation and learning loop](../docs/product-overview.svg)
+<p align="center">
+  <a href="https://eigna.ai"><b>eigna.ai</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://benchmarks.eigna.ai"><b>Benchmarks</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact@eigna.ai"><b>contact@eigna.ai</b></a>
+</p>
 
-## What Eigna supports
+## AI of your own.
 
-Our proof-of-concept software covers:
+- **Yours.** Your data and your model, running where you decide.
+- **Better.** Trained on your work. Released only when better.
+- **Plannable.** A fixed cost you can plan. No token bill.
+- **Free to move.** Local today. Hybrid and Cloud planned. No lock-in.
 
-- Collection from authorized documents and structured records, with consent and source lineage.
-- Specialist decision models evaluated against a fixed test set.
-- Learning cycles that retain the current model when a candidate fails or does not improve.
-- Research scorecards that distinguish measured results, missing evidence and planned work.
+## One model, wherever it runs.
 
-The product direction is client-controlled data and models, private deployment and learning from approved feedback. Eigna is being built for organizations worldwide.
+- **Local.** On your own machine, in your own building.
 
-## Get started
+Hybrid and Cloud: planned.
 
-Visit [eigna.ai](https://eigna.ai) to learn about the product. The [early-access page](https://eigna.ai/waitlist) provides the current registration or email-contact path.
+## Published with its losses.
 
-This repository contains the organization profile. Application installation and client onboarding are not available from this repository.
+We publish our results, including the ones we lose. Every result names its metric, its baseline and its date. See [benchmarks.eigna.ai](https://benchmarks.eigna.ai).
 
-## Status and limits
+## Worldwide, from day one.
 
-Eigna is in development. Proofs of concept use synthetic and public data. They do not establish quality on a client's decisions, a complete client installation or production privacy acceptance.
+Sold directly and through partners, worldwide. Questions from your company: [contact@eigna.ai](mailto:contact@eigna.ai).
 
-Research forecasts do not establish a trading edge. Planned capabilities and unrun comparisons remain labelled as such. A candidate is promoted only under its evaluation and safety rules; improvement is not guaranteed for every batch.
+## Status
 
-Questions from your organization: [contact@eigna.ai](mailto:contact@eigna.ai).
+Eigna is in development. Most repositories here are not public yet.
+
+<br>
+
+<p align="center">
+  <a href="https://eigna.ai"><img src="./assets/eigna-mark.svg" width="36" height="54" alt="the Eigna Figure: seven crossings in a lens shape"></a>
+</p>
+
+<p align="center">
+  <sub><b>Eigna</b> &nbsp;·&nbsp; Always learning. Yours for good. &nbsp;·&nbsp; <a href="https://eigna.ai">eigna.ai</a></sub>
+</p>
