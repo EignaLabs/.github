@@ -1,4 +1,4 @@
-<!-- Copy: brand guide pages 4 and 24; 04b Clients SME v5 page 11 via SC-deck-ba 2026-10-26 01:07Z; delivery note from Chief via SC-designer 01:40Z; pricing and worldwide copy from owner Q7 and TASK LANDING-005. -->
+<!-- Copy: brand guide pages 4 and 24; 04b Clients SME v5 page 11 via SC-deck-ba 2026-10-26 01:07Z; delivery note from Chief via SC-designer 01:40Z; subscription pricing from owner via SC-deck-ba and SC-engineer 2026-10-26; worldwide copy from TASK LANDING-005. -->
 <a href="https://eigna.ai">
   <img alt="Eigna. AI of your own." src="./assets/banner.svg" width="100%">
 </a>
@@ -19,7 +19,7 @@
 
 - **Yours.** Your data and your model, running where you decide.
 - **Better.** Trained on your work. Released only when better.
-- **Plannable.** You pay for the GPU hours you use, plus 20 percent.
+- **Plannable.** A subscription you can plan, plus the GPU hours you use at cost plus 20 percent.
 - **Free to move.** Local, hybrid or cloud. No lock-in.
 
 ## One model, wherever it runs.
