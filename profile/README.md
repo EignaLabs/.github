@@ -24,7 +24,7 @@
 
 ## One model, wherever it runs.
 
-- **Local.** On your own machine, in your own building.
+- **Eigna Local.** On your own machine, in your own building.
 - **Eigna Hybrid.** Sensitive work on site, heavy work in your region.
 - **Eigna Cloud.** A dedicated GPU in the region you choose.
 
@@ -38,7 +38,7 @@ We publish our results, including the ones we lose. Every result names its metri
 
 ## Worldwide, from day one.
 
-Sold worldwide. Questions from your company: [Book a Test Lab](mailto:contact@eigna.ai).
+Sold worldwide. Questions from your company: [contact@eigna.ai](mailto:contact@eigna.ai).
 
 ## Status
 
