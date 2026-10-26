@@ -1,30 +1,55 @@
-# Eigna Labs
+<!-- Copy: brand guide pages 4 and 24; 04b Clients SME v5 page 11 via SC-deck-ba 2026-10-26 01:07Z; delivery note from Chief via SC-designer 01:40Z; subscription pricing from owner via SC-deck-ba and SC-engineer 2026-10-26; worldwide copy from TASK LANDING-005. -->
+<a href="https://eigna.ai">
+  <img alt="Eigna. AI of your own." src="./assets/banner.svg" width="100%">
+</a>
 
-Eigna Labs builds private expert models for companies, designed to run in their own cloud or on their own servers.
+<p align="center">
+  Eigna is owned AI for companies that want better results, a predictable cost and full control over their data, their models and where they run.
+</p>
 
-![Eigna collector, evaluation and learning loop](../docs/product-overview.svg)
+<p align="center">
+  <a href="https://eigna.ai"><b>eigna.ai</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://benchmarks.eigna.ai"><b>Benchmarks</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact@eigna.ai"><b>Book a Test Lab</b></a>
+</p>
 
-## What Eigna supports
+## AI of your own.
 
-Our proof-of-concept software covers:
+- **Yours.** Your data and your model, running where you decide.
+- **Better.** Trained on your work. Released only when better.
+- **Plannable.** A subscription you can plan, plus the GPU hours you use at cost plus 20 percent.
+- **Free to move.** Local, hybrid or cloud. No lock-in.
 
-- Collection from authorized documents and structured records, with consent and source lineage.
-- Specialist decision models evaluated against a fixed test set.
-- Learning cycles that retain the current model when a candidate fails or does not improve.
-- Research scorecards that distinguish measured results, missing evidence and planned work.
+## One model, wherever it runs.
 
-The product direction is client-controlled data and models, private deployment and learning from approved feedback. Eigna is being built for organizations worldwide.
+- **Eigna Local.** On your own machine, in your own building.
+- **Eigna Hybrid.** Sensitive work on site, heavy work in your region.
+- **Eigna Cloud.** A dedicated GPU in the region you choose.
 
-## Get started
+Machines can be shared. Models never are: each company gets its own adapter on a frozen open base model. Need fully separate weights? A dedicated model, priced higher.
 
-Visit [eigna.ai](https://eigna.ai) to learn about the product. The [early-access page](https://eigna.ai/waitlist) provides the current registration or email-contact path.
+Delivery per roadmap stage.
 
-This repository contains the organization profile. Application installation and client onboarding are not available from this repository.
+## Published with its losses.
 
-## Status and limits
+We publish our results, including the ones we lose. Every result names its metric, its baseline and its date. See [benchmarks.eigna.ai](https://benchmarks.eigna.ai).
 
-Eigna is in development. Proofs of concept use synthetic and public data. They do not establish quality on a client's decisions, a complete client installation or production privacy acceptance.
+## Worldwide, from day one.
 
-Research forecasts do not establish a trading edge. Planned capabilities and unrun comparisons remain labelled as such. A candidate is promoted only under its evaluation and safety rules; improvement is not guaranteed for every batch.
+Sold worldwide. Questions from your company: [contact@eigna.ai](mailto:contact@eigna.ai).
 
-Questions from your organization: [contact@eigna.ai](mailto:contact@eigna.ai).
+## Status
+
+Eigna is in development. Most repositories here are not public yet.
+
+<br>
+
+<p align="center">
+  <a href="https://eigna.ai"><img src="./assets/eigna-mark.svg" width="36" height="54" alt="the Eigna Figure: seven crossings in a lens shape"></a>
+</p>
+
+<p align="center">
+  <sub><b>Eigna</b> &nbsp;·&nbsp; Always learning. Yours for good. &nbsp;·&nbsp; <a href="https://eigna.ai">eigna.ai</a></sub>
+</p>
