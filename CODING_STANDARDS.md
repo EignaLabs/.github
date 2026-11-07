@@ -24,3 +24,7 @@ Tests protect behaviour. A test is a meaningful unit test of real behaviour, nev
 Run locally what CI runs, before every push. Install the repo's git hooks in every clone and worktree before the first commit, and never bypass them with `--no-verify`. A PR whose CI fails on format, lint, types or a unit test the hooks would have caught gets CHANGES.
 
 This repo has no git hooks yet. Until it has them, run its format, lint, type and test commands by hand before every push.
+
+## Documentation
+
+README.md starts with the repo image and uses ASD-STE100. GLOSSARY.md holds the domain terms; update it when a term changes.
