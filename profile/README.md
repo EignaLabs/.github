@@ -9,10 +9,6 @@
 
 <p align="center">
   <a href="https://eigna.ai"><b>eigna.ai</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://benchmarks.eigna.ai"><b>Benchmarks</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:contact@eigna.ai"><b>Book a Test Lab</b></a>
 </p>
 
 ## AI of your own.
